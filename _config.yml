@@ -1,0 +1,10 @@
+# Site settings
+title: "MovyonTv"
+description: "Ultimate movie guide with official ratings and powerful filters for exploring TV channel schedules."
+url: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
