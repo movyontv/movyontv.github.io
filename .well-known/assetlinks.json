@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "pt.gamboa.movyontv",
+    "sha256_cert_fingerprints":
+    ["22:9E:00:DF:EA:0A:77:44:7A:88:BB:09:26:14:40:4D:29:C9:BC:15:BC:DE:69:DC:DB:E7:55:44:9A:99:02:3E"]
+  }
+}]
