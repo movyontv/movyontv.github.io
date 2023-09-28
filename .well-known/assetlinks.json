@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.example.deeplink_cookbook",
+    "package_name": "pt.gamboa.movyontv",
     "sha256_cert_fingerprints":
     ["27:4F:27:23:FE:01:34:C5:DD:49:D8:D3:52:80:BB:80:D2:EC:C2:6B:4E:47:00:34:A5:3D:DF:33:53:95:D1:1F"]
   }
