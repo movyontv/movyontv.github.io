@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "KR38U72GHW.pt.gamboa.movyon",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
