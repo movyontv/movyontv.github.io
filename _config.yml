@@ -10,3 +10,6 @@ permalink: pretty
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 include:
   - .well-known
+
+plugins:
+  - jekyll-redirect-from
